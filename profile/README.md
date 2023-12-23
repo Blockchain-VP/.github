@@ -7,5 +7,5 @@ The project consists of three main parts:
 - 🍿 Smart Contract verification.
 
 **All projects in the organization are maintained by five blockchain masters and apprentices🤓**
-[![Organization stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=hollywyh&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
